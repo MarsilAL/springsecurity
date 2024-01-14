@@ -1,0 +1,6 @@
+Spring:
+  data:
+    mongodb:
+      uri: ${MONGODB_URI}
+      port: 27017
+      database: springsecurity
